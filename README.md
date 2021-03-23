@@ -10,8 +10,9 @@ The aim of this activity is to learn Core Python and Data Preprocessing. Conside
             (funny, मजेदार)
 
 reviews.txt
-1101|I like this movie, it is funny.|postive
-1102|I hate this movie.|negative
-1103|This was awesome! I really liked it.|positive
-1104|Nice one. I love it.|positive
+
+1101|I like this movie, it is funny.|postive\
+1102|I hate this movie.|negative\
+1103|This was awesome! I really liked it.|positive\
+1104|Nice one. I love it.|positive\
 1105|This is a poor film by any standard.|negative
